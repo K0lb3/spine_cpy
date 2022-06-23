@@ -1,0 +1,2 @@
+recursive-include spine_cpy_src *.c
+recursive-include spine_cpy_src *.h
